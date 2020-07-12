@@ -18,7 +18,7 @@
 -->
 <resources>
     <!-- Title for Latin keyboard  -->
-    <string name="app_name">KeyBoard</string>
+    <string name="app_name">Custom KeyBoard</string>
 
     <!-- Symbols that are commonly considered word separators in this language -->
     <string name="word_separators">\u0020.,;:!?\n()[]*&amp;@{}/&lt;&gt;_+=|&quot;</string>
